@@ -116,6 +116,5 @@ The dataset consists of **transaction-level global retail data** with the follow
 ## 👤 Author
 
 **Harsh Jadav**
-Computer Engineering Student
 Aspiring Data Analyst / Data Scientist
 
